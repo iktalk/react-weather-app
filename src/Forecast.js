@@ -18,7 +18,7 @@ export default function Forecast() {
           <div className="col-2 temperature-date">
             <h2>
               <span id="current-temp"> </span>
-              <span className="units active"> 20°C </span>
+              <span className="unitsActive"> 20°C </span>
             </h2>
           </div>
           <div className="col-4">
