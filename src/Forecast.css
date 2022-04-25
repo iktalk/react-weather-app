@@ -1,0 +1,23 @@
+.description {
+  text-transform: capitalize;
+  font-size: 13px;
+  list-style: none;
+  text-align: left;
+  padding-left: 0px;
+  margin-top: 31px;
+  margin-left: 0px;
+  font-size: 13px;
+}
+
+.temperature-date {
+  list-style: none;
+  text-align: center;
+  padding-left: 0px;
+  margin-top: 31px;
+  margin-left: 0px;
+}
+
+#current-temp {
+  font-size: 40px;
+  margin-left: -10px;
+}

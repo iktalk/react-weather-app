@@ -1,0 +1,12 @@
+.current-date {
+  background-color: #aac7e3;
+  margin-left: -15px;
+  margin-right: -15px;
+  margin-top: -8px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  padding-left: 11px;
+  color: white;
+  font-weight: 100;
+  font-size: 10px;
+}
